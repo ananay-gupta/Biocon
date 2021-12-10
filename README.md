@@ -1,6 +1,6 @@
 # Biocon
 
-A Basic Web page which gives information abour BioDiversity
+A Basic Web page which gives information about BioDiversity
 
 # Tech Used
 
